@@ -1,0 +1,72 @@
+.item {
+    padding: 30px;
+}
+
+.item-align {
+    display: flex;
+    justify-content: center;
+}
+
+.img-pic {
+    height: 100px;
+    width: 100px;
+}
+
+.item-right {
+    text-align: left;
+    margin: -20px 80px;
+    line-height: 10px;
+}
+
+.modifyitems {
+    display: flex;
+    justify-content: left;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.btn-black {
+    font-size: .8rem;
+    color: black;
+    border-radius: 0;
+    border: .1rem solid black;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    margin-left: .25rem;
+    margin-right: .25rem;
+    cursor: pointer;
+}
+
+.quantity {
+    margin: 5px;
+}
+
+hr {
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 10px;
+}
