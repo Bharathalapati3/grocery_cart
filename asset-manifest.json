@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grocery_cart/static/css/main.1f63a806.chunk.css",
+    "main.js": "/grocery_cart/static/js/main.57097fa5.chunk.js",
+    "main.js.map": "/grocery_cart/static/js/main.57097fa5.chunk.js.map",
+    "runtime-main.js": "/grocery_cart/static/js/runtime-main.ae1de994.js",
+    "runtime-main.js.map": "/grocery_cart/static/js/runtime-main.ae1de994.js.map",
+    "static/js/2.616d7c8f.chunk.js": "/grocery_cart/static/js/2.616d7c8f.chunk.js",
+    "static/js/2.616d7c8f.chunk.js.map": "/grocery_cart/static/js/2.616d7c8f.chunk.js.map",
+    "index.html": "/grocery_cart/index.html",
+    "precache-manifest.4801c05c50bbfceb5e7501e048ab9d6c.js": "/grocery_cart/precache-manifest.4801c05c50bbfceb5e7501e048ab9d6c.js",
+    "service-worker.js": "/grocery_cart/service-worker.js",
+    "static/css/main.1f63a806.chunk.css.map": "/grocery_cart/static/css/main.1f63a806.chunk.css.map"
+  }
+}
